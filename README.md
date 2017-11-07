@@ -1,2 +1,18 @@
 # BusStop
-simple bus stop console app to show running many busses at once
+A simple console app that shows the concept of many busses running at once
+
+## The project is made up 3 main objects and 1 manager object
+
+The main objects;
+```
+Bus
+```
+```
+Rider
+```
+Stop
+```
+The one manager object is the 
+```
+BusManager
+```
