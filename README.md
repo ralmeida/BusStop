@@ -1,29 +1,25 @@
 # BusStop
 A simple console app that shows the concept of many busses running at once
 
-## This example project is for fun, if youd'd like to take it further by all means have at it!
+This example project is for fun, if youd'd like to take it further by all means have at it!
 
-### The project is made up 3 main objects and 1 manager object
+### The project is made up of 3 main objects and 1 manager object
 
 The main objects;
 ```
-Bus
+Bus //This is the object that will 'travel' around to the gvien Stops
 ```
-This is the object that will 'travel' around to the gvien Stops
 
 ```
-Rider
+Rider //This represents a person who has a Starting point and a Destination
 ```
-This represents a person who has a Starting point and a Destination
 
 ```
-Stop
+Stop //This represents the BusStop, uses X/Y cords
 ```
-This represents the BusStop
 
-The one manager object is the 
+The manager object 
 
 ```
-BusManager
+BusManager //The Bus Manaer will ensure everything is running and connected
 ```
-The Bus Manaer will ensure everything is running and connected
